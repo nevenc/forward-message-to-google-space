@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: forward-message-to-google-space
+  config:
+    import: "classpath:/creds.yaml"

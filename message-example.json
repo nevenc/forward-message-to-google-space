@@ -1,0 +1,19 @@
+{
+  "id": "51c7ba92-38de-4d9c-974e-b5b90a3fd05d",
+  "timestamp": "2024-12-27T13:59:22.2549544Z",
+  "action": "push",
+  "target": {
+    "mediaType": "application/vnd.oci.image.index.v1+json",
+    "size": 623,
+    "digest": "sha256:5fb153fbfe5631018da77d1627acdff4cda075fd79bb275e8b173eb510392d79",
+    "length": 623,
+    "repository": "containers/redhatubi-9/nginx",
+    "tag": "sha256-dc67c29879ee466b88b4b3e0b7e8d287d32999977b8f455eb5715b896384a3fa"
+  },
+  "request": {
+    "id": "921d6aa3-5662-4e96-924c-e38c0093ec5e",
+    "host": "emeatanzu.azurecr.io",
+    "method": "PUT",
+    "useragent": "Apache-HttpClient/5.3.1 (Java/21.0.4)"
+  }
+}

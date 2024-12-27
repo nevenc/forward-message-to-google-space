@@ -1,0 +1,5 @@
+forward:
+  url-template: https://chat.googleapis.com/v1/spaces/%s/messages?key=%s&token=%s
+  space: SPACE_ID_HERE
+  key: GOOGLE_KEY_HERE
+  token: GOOGLE_TOKEN_HERE

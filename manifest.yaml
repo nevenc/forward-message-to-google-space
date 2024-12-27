@@ -1,0 +1,6 @@
+---
+applications:
+- name: emeatanzu-message-forward
+  path: ./target/forward-message-to-google-space-0.0.1-SNAPSHOT.jar
+  env:
+    JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 21.+ } }'
